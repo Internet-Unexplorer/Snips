@@ -27,6 +27,6 @@ function fName(id){
 				}
 	        }
         }
-        ajax.send("removeFromCart=1&id="+id); // ajax ends
+        ajax.send("someVariable=1&id="+id); // ajax ends
 	}
 }
