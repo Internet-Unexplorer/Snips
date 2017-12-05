@@ -1,4 +1,4 @@
-#Basic git commands
+# Basic git commands
 
 1. git config --global user.name "Tejas" //To set your name
 1. git config --global user.email "tej.sourceus@gmail.com" //To set your E-mail ID
